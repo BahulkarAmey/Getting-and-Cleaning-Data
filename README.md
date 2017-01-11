@@ -10,7 +10,9 @@ This repo contains "run_analysis.R" that does the following
 
 To make it work. 
 1. download the data set from the UCI archives . 
-      https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 2. extract the files.
 3. keep the data set and the .R file in same directory and run. 
 
